@@ -11,8 +11,8 @@ const App = () => {
       alert(response.razorpay_payment_id);
     },
     prefill: {
-      name: "Sampath",
-      contact: "+91999999999",
+      name: "Saravanakumar",
+      contact: "+919045371234",
       email: "demo@demo.com"
     },
     notes: {
